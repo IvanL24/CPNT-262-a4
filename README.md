@@ -2,10 +2,9 @@
 ## Express Gallery Website
 
 ### links
-  - Heroku deploy: 
+  - Heroku deploy: [https://wbdv-cpnt-262-a4.herokuapp.com/]
   - GH repo: 
 
 # Attributions
   Fetch: [https://github.com/sait-wbdv/in-class/blob/main/week09f/animal-fetch/public/js/client.js]
   All thanks to Tony's guidance.
-  

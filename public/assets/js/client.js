@@ -4,7 +4,7 @@ fetch (`${window.location.origin}/api/v0/gallery`)
     return response.json();
 })
   .then(function(japan){
-  // `data Javascript object 
+  // data Javascript object 
   console.log(japan);
 
   let output = '';
@@ -25,6 +25,6 @@ fetch (`${window.location.origin}/api/v0/gallery`)
 
 .catch(function(error){
   if (error) {
-    console.log ('Oh Noooooooos!');
+    console.log ("Oh no! you've done something wrong");
   }
 });

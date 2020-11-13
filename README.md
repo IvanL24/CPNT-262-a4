@@ -8,3 +8,5 @@
 # Attributions
   Fetch: [https://github.com/sait-wbdv/in-class/blob/main/week09f/animal-fetch/public/js/client.js]
   All thanks to Tony's guidance.
+
+  HTML5UP layout: [SPECTRAL] [https://html5up.net/]
